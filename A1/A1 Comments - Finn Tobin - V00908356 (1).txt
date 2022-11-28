@@ -1,0 +1,38 @@
+Assignment 1 Comments - Finn Tobin - V00908356
+
+-----------
+Grade: 26.0 -- Final: 100.00%
+
+Question 1:	 Grade:  5.0/5.0
+Comments: 
+
+Question 2:	 Grade:  6.0/5.0
+Comments: 
+
+Question 3:	 Grade:  2.0/2.0
+Comments: 
+
+Question 4:	 Grade:  1.5/2.0
+Comments: Comparison lacks detail, why are they different? (-0.5)
+
+Question 5:	 Not submitted
+Comments: 
+
+Question 6:	 Grade:  4.0/4.0
+Comments: 
+
+Question 7:	 Grade:  1.75/2.0
+Comments: No statistics reported (-0.25)
+
+Question 8:	 Grade:  3.75/5.0
+Comments: Missing closed form linear regression (using numpy's linear model is the same as using scikit-learn, the question explicitly asks for closed form solution (-1.25) 
+
+Question 9:	 Grade:  2.0/2.0
+Comments: 
+
+Question 10:	 Not submitted
+Comments: 
+
+Question 11:	 Not submitted
+Comments: 
+

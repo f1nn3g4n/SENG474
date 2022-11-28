@@ -1,0 +1,17 @@
+Assignment 2 Comments - Finn Tobin - V00908356
+
+-----------
+Grade: 7.5 -- Final: 93.75%
+
+Question 1:	 Grade:  3.5/4.0
+Comments: In 1.6, your only problem is that you're using test_X instead of the ctest_X that you created to match the proper shape (no marks deducted), Incorrectly plotting the same image 9 times in 1.7, and no code shown for variables 'incorrect' and 'correct' (-0.5)
+
+Question 2:	 Grade:  2.0/2.0
+Comments: 
+
+Question 3:	 Grade:  2.0/2.0
+Comments: 
+
+Question 4:	 Not submitted
+Comments: Not Submitted
+
